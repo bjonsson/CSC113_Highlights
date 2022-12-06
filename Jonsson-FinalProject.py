@@ -729,7 +729,7 @@ if quizTop == "1":
                 if q1p2_2_2_2_2_practical_1 == "1":
                     q1p2_2_2_2_2_practical_1_1= input("Is this for the holidays?\n1: YES, 2: NO\n")
                     if q1p2_2_2_2_2_practical_1_1 == "1":
-                        write("scandinavian_caking")
+                        write("scandinavian_baking")
                         print()
                         print(scandinavian_baking["description"])
                         print()
